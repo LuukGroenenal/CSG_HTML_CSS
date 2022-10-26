@@ -1,0 +1,31 @@
+
+.rood {
+    width: 500px;
+    height: 400px;
+    background-color:rgb(216, 17, 17); 
+    margin-top: 175px;
+    margin-left: 15px;
+    float: left;
+    border: 2px; border-style: double; color: black;
+    
+}
+
+.blauw { 
+    width: 600px;
+    height: 400px;
+    background-color: rgb(2, 238, 255); 
+    margin-top: 175px;
+    margin-left: 15px;
+    float: left;
+    border: 2px; border-style: double; color: black;
+}
+
+.geel {
+    width: 1119px;
+    height: 150px;
+    background-color: khaki;
+    margin-top: 25px;
+    margin-left: 15px;
+    border: 2px; border-style: double; color: black;
+
+}
